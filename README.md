@@ -6,7 +6,7 @@
 ---
 
 ### 🔧 What I Do  
-- **Backend Development**: Java (Spring Boot), Python (FastAPI, Django, Flask), some Go  
+- **Backend Development**: Java (Core, Spring Boot), Python (Core, FastAPI, Django, Flask), some Go  
 - **DevOps & Cloud**: Kubernetes, Docker, GCP, Azure, AWS  
 - **Data & AI**: AI/ML solutions with TensorFlow, PyTorch, Scikit-learn  
 - **SaaS**: Founder & CTO of [Batchie.net](http://batchie.net) — logistics SaaS platform  (Coming Soon)
