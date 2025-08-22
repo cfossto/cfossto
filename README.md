@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Christopher Fossto  
 
-<!--
-**cfossto/cfossto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Senior Backend & DevOps Engineer** | Java · Python · Kubernetes · Cloud  
+🚀 Backend builder, DevOps engineer, and SaaS founder.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I Do  
+- **Backend Development**: Java (Spring Boot), Python (FastAPI, Django, Flask), some Go  
+- **DevOps & Cloud**: Kubernetes, Docker, GCP, Azure, AWS  
+- **Data & AI**: AI/ML solutions with TensorFlow, PyTorch, Scikit-learn  
+- **SaaS**: Founder & CTO of [Batchie.net](http://batchie.net) — logistics SaaS platform  (Coming Soon)
+
+---
+
+### 📌 Featured Projects  
+- 🛠️ [Batchie.net](Coming Soon) — SaaS logistics platform  
+- 🔐 [Secure CLI Tool](https://github.com/cfossto) (Under construction - See the tsacl repo)  
+- 📊 AI/ML prototypes — NLP, data pipelines, and applied machine learning  
+
+---
+
+### 🌱 Currently Exploring  
+- Advanced **system design** 
+- **Cloud-native SaaS scaling** (multi-tenant, high-availability)  
+- Expanding open-source contributions in DevOps and backend infra  
+
+---
+
+### 📫 Connect with Me  
+- 🌍 [LinkedIn](https://www.linkedin.com/in/christopher-f-29a0a051/)  
+- 🖥️ [GitHub](https://github.com/cfossto)  
+- ✉️ Reach me at: cfossto@gmail.com
+
+---
+
+⚡ *“I build systems that scale, automate, and deliver real value — from SaaS startups to national-scale infrastructure.”*  
