@@ -10,11 +10,13 @@
 - **DevOps & Cloud**: Kubernetes, Docker, GCP, Azure, AWS  
 - **Data & AI**: AI/ML solutions with TensorFlow, PyTorch, Scikit-learn  
 - **SaaS**: Founder & CTO of [Batchie.net](http://batchie.net) — logistics SaaS platform  (Coming Soon)
+- **MCP/AI**: Founder & CTO of [GryfAI](https://gryfai.com) - Model Context Protocol hosting, curation and development
 
 ---
 
 ### 📌 Featured Projects  
-- 🛠️ [Batchie.net](Coming Soon) — SaaS logistics platform  
+- 🛠️ [Batchie.net](Coming Soon) — SaaS logistics platform
+- 🤖: [GryfAI](https://github.com/gryfai) 
 - 🔐 [Secure CLI Tool](https://github.com/cfossto) (Under construction - See the tsacl repo)  
 - 📊 AI/ML prototypes — NLP, data pipelines, and applied machine learning  
 
